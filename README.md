@@ -1,14 +1,6 @@
 # Project_new
 
 ---
-
-
-# Here is the link for the dataset which is available in Kaggle.com(Large dataset - 700mb) :-
-
-https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria?phase=FinishSSORegistration&returnUrl=%2Fdatasets%2Fiarunava%2Fcell-images-for-detecting-malaria%2Fversions%2F1%3Fresource%3Ddownload&SSORegistrationToken=CfDJ8HYJ4SW6YXhJj8CRciRldeTJ61iTYSe85EXT1pMXJCVAvSs8ogzrXF4HSsz84EelIzM7FsOOCQC1KjpkuijnOIIBJh-jYKZX5Iq0qRsri5qILKG8OQBW4foPWoqQdLN9Y-DXzO3FRp3OHF30hyPl8mBSouDszn7L_IJiejRepRpM2g8JMO0Gs3uKMwQzvgf6vuUA_lL_AcvBtTmm_u-iUFbXlo7rIDTWx_7geYPYC5QGqJyBAyMzEISFum30oDJi1C49978fHC9FZ0Pc00_LuKRBK5F0KWX6kbK7Qa135_CwA8PT4wiaQk7VEwFPXGM01WqmFvdpCFyjuRkl0tyULZIzMQeUMjz2b-AU&DisplayName=Bhargavi+Mekala
-
-
-
 # 🦠 Malaria Parasite Detection using Deep Learning
 
 This project focuses on detecting malaria-infected cells and classifying parasite types using a two-stage deep learning approach. It aims to assist healthcare professionals with faster and more accurate diagnostics in resource-constrained environments.
@@ -27,7 +19,8 @@ In this project, we build a **two-stage deep learning pipeline**:
 
 ## 📁 Dataset
 
-- **Source**: [NIH Malaria Dataset](https://lhncbc.nlm.nih.gov/LHC-publications/pubs/MalariaDatasets.html)  
+- **Source**: [NIH Malaria Dataset] (https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria?phase=FinishSSORegistration&returnUrl=%2Fdatasets%2Fiarunava%2Fcell-images-for-detecting-malaria%2Fversions%2F1%3Fresource%3Ddownload&SSORegistrationToken=CfDJ8HYJ4SW6YXhJj8CRciRldeTJ61iTYSe85EXT1pMXJCVAvSs8ogzrXF4HSsz84EelIzM7FsOOCQC1KjpkuijnOIIBJh-jYKZX5Iq0qRsri5qILKG8OQBW4foPWoqQdLN9Y-DXzO3FRp3OHF30hyPl8mBSouDszn7L_IJiejRepRpM2g8JMO0Gs3uKMwQzvgf6vuUA_lL_AcvBtTmm_u-iUFbXlo7rIDTWx_7geYPYC5QGqJyBAyMzEISFum30oDJi1C49978fHC9FZ0Pc00_LuKRBK5F0KWX6kbK7Qa135_CwA8PT4wiaQk7VEwFPXGM01WqmFvdpCFyjuRkl0tyULZIzMQeUMjz2b-AU&DisplayName=Bhargavi+Mekala)
+- 
 - The dataset contains over 27,000 cell images — split into:
   - Parasitized (infected)
   - Uninfected
