@@ -1,6 +1,13 @@
-![image](https://github.com/user-attachments/assets/b8172e25-a558-4f36-8a92-49b47b9ac593)# Projects_new
+# Projects_new
 
 ---
+
+
+# Here is the link for the dataset which is available in Kaggle.com(Large dataset - 700mb) :-
+
+https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria?phase=FinishSSORegistration&returnUrl=%2Fdatasets%2Fiarunava%2Fcell-images-for-detecting-malaria%2Fversions%2F1%3Fresource%3Ddownload&SSORegistrationToken=CfDJ8HYJ4SW6YXhJj8CRciRldeTJ61iTYSe85EXT1pMXJCVAvSs8ogzrXF4HSsz84EelIzM7FsOOCQC1KjpkuijnOIIBJh-jYKZX5Iq0qRsri5qILKG8OQBW4foPWoqQdLN9Y-DXzO3FRp3OHF30hyPl8mBSouDszn7L_IJiejRepRpM2g8JMO0Gs3uKMwQzvgf6vuUA_lL_AcvBtTmm_u-iUFbXlo7rIDTWx_7geYPYC5QGqJyBAyMzEISFum30oDJi1C49978fHC9FZ0Pc00_LuKRBK5F0KWX6kbK7Qa135_CwA8PT4wiaQk7VEwFPXGM01WqmFvdpCFyjuRkl0tyULZIzMQeUMjz2b-AU&DisplayName=Bhargavi+Mekala
+
+
 
 # 🦠 Malaria Parasite Detection using Deep Learning
 
